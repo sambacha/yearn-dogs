@@ -1,0 +1,12 @@
+{
+  "name": "yearn-dogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2021-draft/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
